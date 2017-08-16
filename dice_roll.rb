@@ -4,4 +4,6 @@
 
 def roll
   # code goes here
+  # 1 + rand(6)
+  (1..6).to_a.sample()
 end
